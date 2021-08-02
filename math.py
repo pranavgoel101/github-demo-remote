@@ -20,7 +20,8 @@ def divide(x,y):
 #Square Implementation
 def square(x):
     return x*x
-    
+   
+#Modulus Implementation   
 def modulus(x,y):
     return x%y
 
